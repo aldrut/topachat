@@ -53,4 +53,37 @@ background-color: #E13B07;
     text-transform: uppercase;
 
 }
+.divBorder
+{
+    border: #000 solid 1px;
+}
+.divPositionPrix
+{
+    position: absolute; 
+    right: 5px; 
+    bottom: 5px;
+    
+}
+.spanBgInfo
+{
+    background-color: silver;
+    color: #000;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1em;
+    letter-spacing: 0.05em;
+    padding : 5px 0 5px 0;
 
+}
+.price
+{
+    background-color: red;
+    border-radius: 10px;
+    color: #fff;
+    padding : 5px;
+    font-weight: bold;
+    font-size: 1.2em;;
+    text-align: center;
+    width: 30%;
+   
+}
