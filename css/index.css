@@ -1,0 +1,26 @@
+.navbar .navbar-brand img
+{
+    max-height: 86px;
+}
+
+/* nav.navbar 
+{
+    background: url("../img/fond-header.jpg") no-repeat;
+    
+} */
+
+nav.navbar
+{
+    background: url("../img/fond-header.jpg") no-repeat;
+}
+
+a.nav-link
+{
+    color: #fff !important ;
+    
+}
+div.navbar-collapse
+{
+    background: #6c3218;
+    padding : 0;
+}
