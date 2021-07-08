@@ -12,15 +12,45 @@
 nav.navbar
 {
     background: url("../img/fond-header.jpg") no-repeat;
+    padding : 0;
 }
 
 a.nav-link
 {
     color: #fff !important ;
+    font-family: Arial, Helvetica, sans-serif;
+    /* font-size: ; */
     
 }
 div.navbar-collapse
 {
     background: #6c3218;
-    padding : 0;
+    
 }
+
+.whiteBold
+{
+    color: white;
+    font-weight: bold;
+    text-align: center;
+}
+
+.divTitre1
+{
+    background-color: #3E160D;
+    text-transform: uppercase;
+    font-family: Verdana;
+    padding: 0.4em;
+}
+.remise{
+background-color: #E13B07;
+}
+.new
+{
+    font-size: 0.9em;
+    font-family: verdana;
+    text-align: center;
+    text-transform: uppercase;
+
+}
+
